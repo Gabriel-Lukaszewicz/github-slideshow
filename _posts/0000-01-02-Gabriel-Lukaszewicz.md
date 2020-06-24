@@ -7,8 +7,9 @@ Hello world!
 
 **that's what she said!**
 
-'''python
+```python
 if (ACAB):
     print("F 12")
-'''
+```
+
 Use the left arrow to go back!
